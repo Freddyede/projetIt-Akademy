@@ -18,7 +18,3 @@
 config/
 
 .idea/
-
-migrations/
-
-src/Entity/
